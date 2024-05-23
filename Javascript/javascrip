@@ -1,0 +1,27 @@
+
+//let numbers = [3, 56, 2, 48, 5]
+
+//function  double(x){
+ ////return x * 2
+//}
+//let newNumbers = numbers.filter( x => x > 10)
+  
+//console.log(newNumbers)
+
+
+//let newNumbers = numbers.map(double)
+//console.log(numbers)
+//console.log(newNumbers)
+
+//function filterList(x){
+//  return  x > 10  
+//}
+//let newNumbers = numbers.filter(filterList)
+  //console.log(newNumbers)
+
+ // function filterList(x){
+ // return  x > 10  
+  
+//}
+//gefundenesElement = numbers.findIndex(findItemIndex)
+//console.log(gefundernIndex)
